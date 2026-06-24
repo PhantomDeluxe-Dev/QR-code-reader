@@ -2,7 +2,9 @@
 
 A simple, browser-based QR code reader built with HTML & JavaScript. No installation required — just open the file and start scanning!
 
-🔗 **Live Demo:** [Try it here](https://phantomdeluxe-dev.github.io/QR-code-reader/index.html)
+🔗 **Live Demo:** 
+
+👉 **Try in your browser:** (https://phantomdeluxe-dev.github.io/QR-code-reader/)
 
 ## ✨ Features
 
